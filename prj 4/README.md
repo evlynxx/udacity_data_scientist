@@ -31,3 +31,6 @@ Below you can find the file content of this project:
 
 ## Copyright and Licencing
 This project is licensed under the terms of the MIT license
+
+## Medium Blog Post
+The main findings of the code can be found at the Medium Blog post available [here](https://myspacemeowmeow.blogspot.com/2023/08/predict-personalised-offer-portfolios.html)
